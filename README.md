@@ -1,1 +1,1 @@
-# Linkdin_post_Generatot
+# Linkdin_post_Generator
